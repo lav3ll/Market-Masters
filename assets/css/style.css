@@ -12,7 +12,7 @@ body {
   background-color: #d9dcd6;
 }
 
-/*//////////////////HEADER ////////////////////////*/
+/*////////////////// HEADER ////////////////////////*/
 .header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -48,25 +48,20 @@ body {
 }
 
 /*/ //////////////////////End of Header//////////////////////////*/
-a {
-  color: var(--white);
-  text-decoration: none;
-}
 
-p {
-  font-size: 16px;
-}
-
+/*////////////////// Poster ////////////////////////*/
 .poster {
   height: 800px;
   width: 100%;
-  margin-bottom: 25px;
   background-image: url("../images/digital-marketing-meeting.jpg");
   background-size: cover;
   background-position: center;
+  margin-bottom: 25px;
 }
 
-/*//////////////////SECTION ////////////////////////*/
+/*/ //////////////////////End of Poster//////////////////////////*/
+
+/*////////////////// ARTICLE ////////////////////////*/
 
 .content {
   width: 75%;
@@ -108,9 +103,9 @@ p {
   font-size: 36px;
 }
 
-/*/ //////////////////////End of section//////////////////////////*/
+/*/ //////////////////////End of Article //////////////////////////*/
 
-/*//////////////////ASIDE ////////////////////////*/
+/*////////////////// ASIDE ////////////////////////*/
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -146,6 +141,7 @@ p {
 
 /*/ //////////////////////End of aside//////////////////////////*/
 
+/*////////////////// ASIDE ////////////////////////*/
 .footer {
   padding: 30px;
   clear: both;
@@ -158,4 +154,14 @@ p {
   font-size: 20px;
 }
 
-/*///////////////////////End of footer//////////////////////////*/
+/*/ //////////////////////End of footer//////////////////////////*/
+
+/*////////////////// TYPOGRAPHY  ////////////////////////*/
+a {
+  color: var(--white);
+  text-decoration: none;
+}
+
+p {
+  font-size: 16px;
+}
