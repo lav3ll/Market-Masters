@@ -16,11 +16,11 @@ No installation needed
 
 ## Usage
 
-![Alt Text](./assets/images/market-masters.png)
+![Screenhot of the front page of Market Masters Website](./assets/images/market-masters.png)
 
 **Website Overview:** Visit our marketing website to explore how we've optimized it for improved search engine rankings, enhanced user experience, and increased online visibility.
 
-S**EO Techniques:** Dive into the SEO techniques we've implemented by browsing through the different sections of our website.
+**SEO Techniques:** Dive into the SEO techniques we've implemented by browsing through the different sections of our website.
 
 **Key Features:** Discover the key features and components that make our website stand out in terms of SEO and user experience.
 
